@@ -3,6 +3,7 @@
 dockerFiles ,  
 rocketmq-compute ,
 testProject ,
+flume-jms-sink ,
 
 -----
 
