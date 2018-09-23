@@ -91,6 +91,7 @@ tsar ,
 main-runner ,
 fast-profiler ,
 useful-scripts ,
+TProfiler ,
 
 
 ---
