@@ -110,8 +110,9 @@ elastik-nearest-neighbors ,
 visual_search
 
 -----
-其他
-menagerie -> ZooKeeper-based Java Concurrency Libraries
+分布式协调
+menagerie -> ZooKeeper-based Java Concurrency Libraries ,
+taokeeper
 
 ----
 学习资源
