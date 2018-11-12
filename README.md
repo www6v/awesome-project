@@ -1,7 +1,7 @@
 自己的项目
 
 dockerFiles -> 基于docker的系统,  
-hedwig -> 分布式服务治理框架,  
+hedwig -> 分布式服务治理框架  基于Akka,  
 rocketmq-compute -> rocketmq producer& comsumer,  
 jDemo -> java Demo,  
 tuna -> APM, APM metric ,  
@@ -9,7 +9,7 @@ flume-jms-sink ,
 
 -----
 
-fork项目
+fork的项目
 
 -----
 java基础  
