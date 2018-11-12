@@ -1,9 +1,10 @@
 自己的项目
 
-dockerFiles ,  
-rocketmq-compute ,
-testProject ,
-tuna ,
+dockerFiles -> 基于docker的系统,  
+hedwig -> 分布式服务治理框架,
+rocketmq-compute -> rocketmq producer& comsumer,
+jDemo -> java Demo,
+tuna -> APM, APM metric ,
 flume-jms-sink ,
 
 -----
