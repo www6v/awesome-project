@@ -54,6 +54,7 @@ incubator-dubbo-spring-boot-project ,
 motan ,
 pigeon ,
 Hystrix ,  
+armeria , 
 
 ----
 TCC事务  
