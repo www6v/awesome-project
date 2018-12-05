@@ -26,6 +26,7 @@ Kafka-zk-restapi ,
 kafka ,  
 sdmq  -> delay message queue ,  
 rocketmq ,  
+jmq,  
 
 ---
 服务
@@ -49,6 +50,7 @@ incubator-dubbo-spring-boot-project ,
 
 motan ,
 pigeon ,
+jsf-sdk,  
 
 armeria ,
 netty-action -> netty实践,  
@@ -74,7 +76,8 @@ istio ,
 TCC事务  
 tcc-transaction ,  
 ByteTCC ,  
-Hmily ,   
+Hmily ,  
+spring-cloud-rest-tcc,  
 
 ---
 分布式调度   
@@ -116,7 +119,8 @@ arthas,
 容器  
 dockerFiles ,  
 DevOps ,  
-derrick ,   
+derrick ,  
+docker-compose-repo, 
 
 
 Spring ,  
@@ -140,6 +144,8 @@ rpcx,
 beego,   
 go-patterns,  
 hystrix-go,  
+go-resiliency,  
+cticker -> hashwheel, 
 
 ----
 redis   
@@ -175,11 +181,15 @@ distributed_system_readings,
 Qix ->  Distributed System、Golang ,   
 
 translations -> 经典文章翻译,  
+software-practice-miscellany,  
+book,   
+
 
 -------
 算法  
 awesome-java-leetcode,  
 algorithms, 
+imooc_algorithm_lesson, 
 
 
 -------
