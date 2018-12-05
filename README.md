@@ -140,13 +140,13 @@ taokeeper
 
 -------
 golang   
-rpcx,   
-beego,   
-go-patterns,  
-hystrix-go,  
-go-resiliency,  
-cticker -> hashwheel, 
-wonderfogo -> go资料
+rpcx,     
+beego,     
+go-patterns,    
+hystrix-go,    
+go-resiliency,    
+cticker -> hashwheel,   
+wonderfogo -> go资料  
 
 ----
 redis   
@@ -181,10 +181,10 @@ techblog -> 原创博客技术联盟,
 distributed_system_readings,  
 Qix ->  Distributed System、Golang ,   
 
-translations -> 经典文章翻译,  
-software-practice-miscellany,  
-book, 
-big-data-study,   
+translations -> 经典文章翻译,    
+software-practice-miscellany,    
+book,   
+big-data-study,     
 
 -------
 算法  
