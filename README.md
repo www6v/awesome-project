@@ -53,12 +53,12 @@ pigeon ,
 armeria ,
 
 -----
-服务容错
+服务容错  
 Sentinel , 
 Hystrix ,  
 
 -----
-service mesh 
+service mesh  
 sofa-mosn , 
 
 conduit ,
@@ -71,11 +71,11 @@ ByteTCC ,
 Hmily ,   
 
 ---
-分布式调度 
+分布式调度   
 Saturn  
 
 ---
-数据
+数据  
 zebra ,  
 cobar  ,  
 canal  , 
@@ -84,14 +84,14 @@ tb_tddl  ,
 zdal  ,  
 
 ---
-源代码
+源代码  
 Tomcat-Research ,  
 Open-Source-Research ,  
 netty-in-action-cn ,  
 
 
 ---
-工具和诊断
+工具和诊断  
 ElasticHD ,
 elastalert ,  
 
@@ -108,7 +108,7 @@ arthas,
 
 
 ---
-容器
+容器  
 dockerFiles ,  
 DevOps ,  
 derrick ,   
@@ -128,30 +128,30 @@ menagerie -> ZooKeeper-based Java Concurrency Libraries ,
 taokeeper  
 
 -------
-golang 
-rpcx, 
-beego, 
-go-patterns, 
+golang   
+rpcx,   
+beego,   
+go-patterns,   
 
 ----
-redis 
-pika, 
+redis   
+pika,   
 
 -----
-source code 
-carbon,
+source code   
+carbon,  
 
 ------
-分布式存储 
-containerfs，
+分布式存储  
+containerfs，  
 
 ----
-学习资源
-ibm-opentech-ma -> serviceMesh, 
-trans -> serviceMesh, 
-CS-Notes， 
-JCSprout， 
-book-1 -> golang,
+学习资源  
+ibm-opentech-ma -> serviceMesh,  
+trans -> serviceMesh,   
+CS-Notes,    
+JCSprout,   
+book-1 -> golang,   
 
 
 
