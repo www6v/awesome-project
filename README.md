@@ -123,7 +123,7 @@ elastik-nearest-neighbors ,
 visual_search  
 
 -----
-分布式协调
+分布式协调    
 menagerie -> ZooKeeper-based Java Concurrency Libraries ,  
 taokeeper  
 
