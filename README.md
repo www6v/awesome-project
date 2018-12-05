@@ -51,11 +51,12 @@ motan ,
 pigeon ,
 
 armeria ,
+netty-action -> netty实践,  
 
 ------
 spring  
-nacos-spring-project,   
-
+nacos-spring-project, 
+SpringBoot-Dubbo-Docker-Jenkins,  tr
 
 -----
 服务容错  
@@ -111,16 +112,17 @@ useful-scripts ,
 TProfiler ,  
 arthas, 
 
-
 ---
 容器  
 dockerFiles ,  
 DevOps ,  
 derrick ,   
-redis-cluster ,  
+
 
 Spring ,  
 cooma ,  
+docker-java,   
+openjdos  京东开源的容器调度,
 
 -----
 计算机视觉
@@ -136,12 +138,16 @@ taokeeper
 golang   
 rpcx,   
 beego,   
-go-patterns,   
+go-patterns,  
+hystrix-go,  
 
 ----
 redis   
 pika,  
 corvus,  
+sdmq,  
+distributed-redis-tool,  
+redis-cluster ,  
 
 -----
 source code   
@@ -151,15 +157,43 @@ carbon,
 分布式存储  
 containerfs，  
 
+
 ----
 学习资源  
 ibm-opentech-ma -> serviceMesh,  
 trans -> serviceMesh,  
 awesome-servicemesh,   
+meetup-slides -> serviceMesh, 
+glossary -> serviceMesh, 
+
 CS-Notes,    
 JCSprout,   
+
 book-1 -> golang,   
-techblog -> 原创博客技术联盟   编辑到这里,    
+techblog -> 原创博客技术联盟,   
+distributed_system_readings,  
+Qix ->  Distributed System、Golang ,   
+
+translations -> 经典文章翻译,  
+
+-------
+算法
+awesome-java-leetcode,  
+algorithms, 
+
+
+-------
+website tool
+academic-kickstart，    
+
+------
+org  
+Aliyun (Alibaba Cloud) Container Service,   
+
+-----
+interview
+awesome-interviews
+
 
 
 
