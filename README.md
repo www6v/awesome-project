@@ -81,13 +81,13 @@ Hmily ,
 Saturn  
 
 ---
-数据  
-zebra ,  
-cobar  ,  
-canal  , 
-otter , 
-tb_tddl  ,  
-zdal  ,  
+数据    
+zebra ,    
+cobar  ,    
+canal  ,    
+otter ,   
+tb_tddl  ,    
+zdal  ,    
 
 ---
 源代码  
@@ -125,7 +125,7 @@ docker-java,
 openjdos  京东开源的容器调度,
 
 -----
-计算机视觉
+计算机视觉   
 elastik-nearest-neighbors ,  
 visual_search  
 
@@ -177,7 +177,7 @@ Qix ->  Distributed System、Golang ,
 translations -> 经典文章翻译,  
 
 -------
-算法
+算法  
 awesome-java-leetcode,  
 algorithms, 
 
