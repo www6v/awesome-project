@@ -13,7 +13,7 @@ fork的项目
 
 -----
 java基础  
-classloader-playground ,  
+classloader-playground  隔离,  
 fucking-java-concurrency ,  
 classloader-demo ,  
 asyncload ,  
@@ -85,12 +85,12 @@ Saturn
 
 ---
 数据    
-zebra ,    
-cobar  ,    
-canal  ,    
-otter ,   
-tb_tddl  ,    
-zdal  ,    
+zebra 点评,    
+cobar 阿里 ,    
+canal 阿里 ,    
+otter 阿里,   
+tb_tddl  阿里,    
+zdal  支付宝 ,    
 
 ---
 源代码  
@@ -109,7 +109,7 @@ vjtools ,
 greys-anatomy ,  
 jvm-sandbox ,  
 tsar ,  
-main-runner ,  
+main-runner -> all in one,    
 fast-profiler ,  
 useful-scripts ,  
 TProfiler ,  
@@ -146,6 +146,7 @@ go-patterns,
 hystrix-go,  
 go-resiliency,  
 cticker -> hashwheel, 
+wonderfogo -> go资料
 
 ----
 redis   
@@ -182,15 +183,16 @@ Qix ->  Distributed System、Golang ,
 
 translations -> 经典文章翻译,  
 software-practice-miscellany,  
-book,   
-
+book, 
+big-data-study,   
 
 -------
 算法  
-awesome-java-leetcode,  
+awesome-java-leetcode,
+leetcode,  
 algorithms, 
 imooc_algorithm_lesson, 
-
+  
 
 -------
 website tool
