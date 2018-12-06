@@ -39,5 +39,11 @@ http://www.cnblogs.com/LBSer/
 http://www.cnblogs.com/IT-Bear/p/3191423.html
 还有3.0版本
 
+碧远 蚂蚁金服中间件
+http://leaver.me/
+
+蚂蚁财富研发工程师
+http://monkeyhorse.cn/
+
 
 
