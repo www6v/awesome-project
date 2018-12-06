@@ -19,5 +19,25 @@ taobao   毕玄博客   做服务化的
 http://hellojava.info/
 hellojavacases微信公众号网站  加过
 
+crossoverjie
+https://crossoverjie.top/
+
+占小狼 -- 点评 jvm
+http://www.jianshu.com/u/90ab66c248e6
+
+周志明 的博客   -      java虚拟机  这本书的作者
+http://icyfenix.iteye.com/
+
+Float_Luuu  大众点评网 - 高级程序员
+http://my.oschina.net/andylucc/home
+
+占利军   一个专注于后端架构、算法的工程师 个人经历： 2015 至今 阿里巴巴； 2013-2015 美团； 
+http://www.jobbole.com/members/meituanalibaba/
+http://www.cnblogs.com/LBSer/
+
+国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
+http://www.cnblogs.com/IT-Bear/p/3191423.html
+还有3.0版本
+
 
 
