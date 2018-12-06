@@ -48,5 +48,14 @@ http://monkeyhorse.cn/
 李小武，coding@alibaba。
 http://blog.lichengwu.cn/
 
+阿里人
+http://www.blogjava.net/BlueDavy/
 
+董西成  大数据&算法
+http://dongxicheng.org/
 
+阿里 丁奇 dba
+https://dinglin.iteye.com/
+
+----
+del.icio.us/www6v  techblog 上的数据已同步
