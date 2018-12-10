@@ -27,6 +27,7 @@ kafka ,
 sdmq  -> delay message queue ,  
 rocketmq ,  
 jmq,  
+qmq,  
 
 ---
 服务
@@ -83,9 +84,7 @@ spring-cloud-rest-tcc,
 分布式调度   
 Saturn  
 
-----
-消息中间件
-qmq
+
 
 ---
 数据    
