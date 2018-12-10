@@ -83,6 +83,10 @@ spring-cloud-rest-tcc,
 分布式调度   
 Saturn  
 
+----
+消息中间件
+qmq
+
 ---
 数据    
 zebra 点评,    
