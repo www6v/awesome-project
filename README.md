@@ -191,11 +191,11 @@ big-data-study,
 
 -------
 算法  
-awesome-java-leetcode,   牛x  
+awesome-java-leetcode,   牛x     
 leetcode,  
-LintCode,  牛x
-algorithms,    
-imooc_algorithm_lesson,     
+LintCode,  牛x   
+algorithms,      
+imooc_algorithm_lesson,        
   
 
 -------
