@@ -89,13 +89,15 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 [阿里中间件技术博客]()
 
-[美团技术博客]()
+[美团点评技术博客]()
 
 [饿了么框架工具部- 知乎](https://zhuanlan.zhihu.com/p/28585781)  异地多活 压测
 
 [阿里云redis最佳实践](https://help.aliyun.com/document_detail/67252.html) 
 
 [阿里云栖 ATA]()
+
+[今日头条 技术博客](https://techblog.toutiao.com/2017/05/02/dao/)
 
 SOFA 微信公众号
 
