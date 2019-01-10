@@ -38,6 +38,9 @@ http://www.cnblogs.com/LBSer/
 
 横云断岭/hengyunabc  http://hengyunabc.github.io/
 
+
+傲小剑  https://skyao.io/#posts    service mesh
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
@@ -63,6 +66,7 @@ http://dongxicheng.org/
 水寒  网易研发工程师
 https://www.cnblogs.com/java-zhao/
 
+
 零度 jvm
 
 朱小厮 kafka rabbitmq
@@ -73,6 +77,9 @@ https://www.cnblogs.com/java-zhao/
 
 鸟窝 Java， golang
 
+花钱的年华 江南白衣  基础架构
+
+程序猿DD springCloud
 
 ---
 
@@ -80,13 +87,15 @@ https://www.cnblogs.com/java-zhao/
 http://www.cnblogs.com/IT-Bear/p/3191423.html
 还有3.0版本
 
-阿里中间件技术博客
+[阿里中间件技术博客]()
 
-美团技术博客
+[美团技术博客]()
 
-饿了么框架工具组  - 知乎
+[饿了么框架工具部- 知乎](https://zhuanlan.zhihu.com/p/28585781)  异地多活 压测
 
 [阿里云redis最佳实践](https://help.aliyun.com/document_detail/67252.html) 
+
+[阿里云栖 ATA]()
 
 SOFA 微信公众号
 
@@ -105,3 +114,4 @@ self
 del.icio.us/www6v  techblog 上的数据已同步
 
 ---
+
