@@ -35,6 +35,9 @@ https://dinglin.iteye.com/
 http://www.jobbole.com/members/meituanalibaba/
 http://www.cnblogs.com/LBSer/
 
+
+横云断岭/hengyunabc  http://hengyunabc.github.io/
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
@@ -60,6 +63,17 @@ http://dongxicheng.org/
 水寒  网易研发工程师
 https://www.cnblogs.com/java-zhao/
 
+零度 jvm
+
+朱小厮 kafka rabbitmq
+
+闪电侠 netty
+
+老钱 redis
+
+鸟窝 Java， golang
+
+
 ---
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
@@ -73,6 +87,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 饿了么框架工具组  - 知乎
 
 [阿里云redis最佳实践](https://help.aliyun.com/document_detail/67252.html) 
+
+SOFA 微信公众号
 
 ---
 
