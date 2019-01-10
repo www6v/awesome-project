@@ -91,6 +91,15 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 SOFA 微信公众号
 
 ---
+facebook https://code.fb.com/
+
+linkedin https://engineering.linkedin.com/blog
+
+netflix https://medium.com/netflix-techblog
+
+techiedelight https://www.techiedelight.com/
+
+---
 
 self
 del.icio.us/www6v  techblog 上的数据已同步
