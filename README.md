@@ -237,5 +237,6 @@ awesome-interviews
 *** kubernate setup     
 [kubeasz](https://github.com/gjmzj/kubeasz)      
 [kubespray](https://github.com/kubernetes-sigs/kubespray)      
+[kubernate实验平台](https://console.magicsandbox.com)
 
 
