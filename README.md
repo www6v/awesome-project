@@ -234,8 +234,8 @@ awesome-interviews
 
 -----
 
-*** kubernate setup 
-[kubeasz](https://github.com/gjmzj/kubeasz) 
-[kubespray](https://github.com/kubernetes-sigs/kubespray) 
+*** kubernate setup     
+[kubeasz](https://github.com/gjmzj/kubeasz)      
+[kubespray](https://github.com/kubernetes-sigs/kubespray)      
 
 
