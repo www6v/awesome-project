@@ -75,7 +75,7 @@ https://www.cnblogs.com/java-zhao/
 
 零度 jvm
 
-朱小厮 kafka rabbitmq
+朱小厮 朱忠华 kafka rabbitmq
 
 闪电侠 netty
 
@@ -104,6 +104,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 [阿里云栖 ATA]()
 
 [今日头条 技术博客](https://techblog.toutiao.com/2017/05/02/dao/)
+
+[阿里云社区做过的在线峰会](https://yq.aliyun.com/topic?spm=a2c4e.11154022.headermainnav.11.7037aMQGaMQGE8#guid-721571)
 
 SOFA 微信公众号
 
