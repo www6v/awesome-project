@@ -110,6 +110,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 3. [容器服务Docker&Kubernetes](https://yq.aliyun.com/teams/11/type_blog-cid_450-page_1)
 
+4. [中生代技术](https://yq.aliyun.com/users/1080464764156883?spm=a2c4e.11153940.blogrightarea54004.2.22c86a7d3BdzIB)
+
 SOFA 微信公众号
 
 ---
