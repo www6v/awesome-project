@@ -47,6 +47,10 @@ http://www.cnblogs.com/LBSer/
 
 [宋净超 service mash](https://jimmysong.io/)
 
+[数据库内核月报 淘宝数据库组] http://mysql.taobao.org/monthly/
+
+[系统技术非业余研究](http://blog.yufeng.info/)
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
@@ -87,7 +91,11 @@ https://www.cnblogs.com/java-zhao/
 
 程序猿DD springCloud
 
----
+[瀚海星空](http://abloz.com/)
+
+[pagefault]http://www.pagefault.info/
+
+----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
 http://www.cnblogs.com/IT-Bear/p/3191423.html
