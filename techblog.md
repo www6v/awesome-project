@@ -95,7 +95,11 @@ https://www.cnblogs.com/java-zhao/
 
 [瀚海星空](http://abloz.com/)
 
-[pagefault]http://www.pagefault.info/
+[pagefault](http://www.pagefault.info/)
+
+[罗道文](http://luodw.cc/)  golang python NSQ 有深度
+
+[赖明星  网易](http://mingxinglai.com/)
 
 ----
 
