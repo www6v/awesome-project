@@ -55,7 +55,7 @@ http://www.cnblogs.com/LBSer/
 
 [arebya](http://arebya.com/) 质量不高
 
-[canal 作者](https://agapple.iteye.com/)  
+[canal作者 agapple](https://agapple.iteye.com/)  
 
 ---
 
