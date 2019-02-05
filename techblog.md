@@ -55,6 +55,8 @@ http://www.cnblogs.com/LBSer/
 
 [arebya](http://arebya.com/) 质量不高
 
+[canal 作者](https://agapple.iteye.com/)  
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
