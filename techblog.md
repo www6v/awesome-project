@@ -57,6 +57,9 @@ http://www.cnblogs.com/LBSer/
 
 [canal作者 agapple](https://agapple.iteye.com/)  
 
+
+[阿里加多](https://www.jianshu.com/u/b230a86fb7ad)
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
