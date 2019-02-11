@@ -135,6 +135,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 SOFA 微信公众号
 
+5. [Nginx开发从入门到精通 <- Tengine](http://tengine.taobao.org/book/index.html)
+
 ---
 facebook https://code.fb.com/
 
