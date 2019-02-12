@@ -108,6 +108,8 @@ https://www.cnblogs.com/java-zhao/
 
 [赖明星  网易](http://mingxinglai.com/)
 
+[张逸的博客](https://www.cnblogs.com/wayfarer/default.html)
+
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
