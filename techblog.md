@@ -130,7 +130,13 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 [青云QingCloud 知乎](https://zhuanlan.zhihu.com/qingcloud)
 [有赞技术团队 知乎 干货挺多](https://www.zhihu.com/org/you-zan-ji-zhu-tuan-dui/activities)
 
-阿里云栖社区   
+[蚂蚁金融科技](https://tech.antfin.com/)
+
+
+阿里云栖社区 
+
+0. [阿里云栖  技术团队入口](https://yq.aliyun.com/teams)  
+
 1. [阿里 ATA]()
 
 2. [阿里云社区做过的在线峰会](https://yq.aliyun.com/topic?spm=a2c4e.11154022.headermainnav.11.7037aMQGaMQGE8#guid-721571)
@@ -138,6 +144,19 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 3. [容器服务Docker&Kubernetes](https://yq.aliyun.com/teams/11/type_blog-cid_450-page_1)
 
 4. [中生代技术](https://yq.aliyun.com/users/1080464764156883?spm=a2c4e.11153940.blogrightarea54004.2.22c86a7d3BdzIB)
+
+5. [阿里技术矩阵 阿里技术矩阵](https://yq.aliyun.com/teams/16)
+
+6. [阿里巴巴大数据 —玩家社区](https://yq.aliyun.com/teams/6)
+
+7. [阿里云网络产品](https://yq.aliyun.com/teams/28)  
+
+8. [阿里云服务](https://yq.aliyun.com/teams/56/type_blog)
+
+9. [阿里云存储服务](https://yq.aliyun.com/teams/4)
+
+10. [阿里云持续交付平台](https://yq.aliyun.com/teams/20)
+
 
 SOFA 微信公众号
 
