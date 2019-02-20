@@ -145,7 +145,7 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 4. [中生代技术](https://yq.aliyun.com/users/1080464764156883?spm=a2c4e.11153940.blogrightarea54004.2.22c86a7d3BdzIB)
 
-5. [阿里技术矩阵 阿里技术矩阵](https://yq.aliyun.com/teams/16)
+5. [阿里技术矩阵](https://yq.aliyun.com/teams/16)
 
 6. [阿里巴巴大数据 —玩家社区](https://yq.aliyun.com/teams/6)
 
