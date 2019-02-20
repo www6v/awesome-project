@@ -157,6 +157,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 10. [阿里云持续交付平台](https://yq.aliyun.com/teams/20)
 
+11. [阿里云实时计算](https://yq.aliyun.com/teams/67)
+
 
 SOFA 微信公众号
 
