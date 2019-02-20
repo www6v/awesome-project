@@ -17,7 +17,7 @@ http://blog.leanote.com/along
 黄若慧   在阿里巴巴负责闲鱼技术团队  高级技术专家   淘宝文通
 http://blog.zephyrleaves.net/
 
-阿里人的博客
+阿里人的博客 canel
 http://agapple.iteye.com/ 
 https://github.com/agapple
 
@@ -40,8 +40,7 @@ http://www.cnblogs.com/LBSer/
 [横云断岭/hengyunabc](http://hengyunabc.github.io/)
 
 
-
-傲小剑  https://skyao.io/#posts    service mesh
+[]傲小剑  https://skyao.io/#posts    service mesh
 
 
 [Software Engineer @ Alibaba Middleware Team](https://www.sczyh30.com/) 
@@ -59,6 +58,10 @@ http://www.cnblogs.com/LBSer/
 
 
 [阿里加多](https://www.jianshu.com/u/b230a86fb7ad)
+
+[乒乓狂魔](https://yq.aliyun.com/users/6bmpl5rdwpqu4)
+
+[冯嘉 ](https://yq.aliyun.com/users/ejn34jbxf5evs)
 
 ---
 
