@@ -25,13 +25,13 @@ disruptor ,
 Kafka-zk-restapi ,  
 kafka ,  
 sdmq  -> delay message queue ,  
-rocketmq ,  
-jmq,  
-qmq,  
+rocketmq -> ali,  
+jmq -> 京东,  
+qmq -> 去哪儿,  
 
 ---
 
-*** 服务
+*** 服务 rpc
 
 pinpoint , 
 cat ,  
@@ -91,8 +91,6 @@ spring-cloud-rest-tcc,
 *** 分布式调度   
 Saturn  
 
-
-
 ---
 
 *** 数据    
@@ -105,7 +103,7 @@ zdal  支付宝 ,
 
 ---
 搜索
-poseidon qihu360,   
+poseidon -> qihu360,   
 
 ---
 
@@ -122,7 +120,7 @@ ElasticHD ,
 elastalert ,  
 
 TBJMap ,  
-vjtools ,  
+vjtools -> vip,  
 greys-anatomy ,  
 jvm-sandbox ,  
 tsar ,  
@@ -130,7 +128,7 @@ main-runner -> all in one,
 fast-profiler ,  
 useful-scripts ,  
 TProfiler ,  
-arthas, 
+arthas -> ali, 
 
 ---
 
@@ -188,7 +186,6 @@ carbon,
 *** 分布式存储  
 containerfs，  
 
-
 ----
 
 *** 学习资源  
@@ -209,7 +206,12 @@ Qix ->  Distributed System、Golang ,
 translations -> 经典文章翻译,    
 software-practice-miscellany,    
 book,   
-big-data-study,     
+big-data-study,   
+
+-------
+
+***  DDD(领域驱动设计)
+enode -> .NET实现 
 
 -------
 
