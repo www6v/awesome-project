@@ -144,6 +144,11 @@ cooma ,
 docker-java,   
 openjdos  京东开源的容器调度,
 
+---
+混沌工程 chaos-engineering
+chaos-monkey  -> netflix
+kube-monkey
+
 -----
 
 *** 计算机视觉   
