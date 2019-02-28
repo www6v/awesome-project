@@ -61,7 +61,9 @@ http://www.cnblogs.com/LBSer/
 
 [乒乓狂魔](https://yq.aliyun.com/users/6bmpl5rdwpqu4)
 
-[冯嘉 ](https://yq.aliyun.com/users/ejn34jbxf5evs)
+[冯嘉 rocketmq](https://yq.aliyun.com/users/ejn34jbxf5evs)
+
+[木洛 阿里云技术专家，表格存储](https://yq.aliyun.com/users/jwbhxydfk6qyi/article)
 
 ---
 
