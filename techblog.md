@@ -65,6 +65,8 @@ http://www.cnblogs.com/LBSer/
 
 [木洛 阿里云技术专家，表格存储](https://yq.aliyun.com/users/jwbhxydfk6qyi/article)
 
+[成喆 阿里云存储服务](https://yq.aliyun.com/users/u3vivzisyg2pc/)
+
 ---
 
 Microservice 微服务的理论模型和现实路径 -- 京东的人
