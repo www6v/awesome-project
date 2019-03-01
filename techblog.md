@@ -97,13 +97,13 @@ https://jinnianshilongnian.iteye.com/
 
 零度 jvm
 
-朱小厮 朱忠华 kafka rabbitmq
+朱小厮 朱忠华 kafka rabbitmq 唯品会
 
-闪电侠 netty
+闪电侠 netty 
 
-老钱 redis
+老钱 redis 阅文集团
 
-鸟窝 Java， golang
+鸟窝 Java， golang  微博架构师 
 
 花钱的年华 江南白衣  基础架构
 
@@ -118,6 +118,8 @@ https://jinnianshilongnian.iteye.com/
 [赖明星  网易](http://mingxinglai.com/)
 
 [张逸的博客](https://www.cnblogs.com/wayfarer/default.html)
+
+[银文杰 <<高性能服务系统构建与实战>>](https://blog.csdn.net/yinwenjie/article/list/1?)
 
 ----
 
