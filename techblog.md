@@ -39,23 +39,19 @@ http://www.cnblogs.com/LBSer/
 
 [横云断岭/hengyunabc](http://hengyunabc.github.io/)
 
-
-[]傲小剑  https://skyao.io/#posts    service mesh
-
+[傲小剑](https://skyao.io/#posts)  service mesh    
 
 [Software Engineer @ Alibaba Middleware Team](https://www.sczyh30.com/) 
 
 
 [宋净超 service mash](https://jimmysong.io/)
 
-[数据库内核月报 淘宝数据库组] http://mysql.taobao.org/monthly/
 
 [系统技术非业余研究](http://blog.yufeng.info/)
 
 [arebya](http://arebya.com/) 质量不高
 
 [canal作者 agapple](https://agapple.iteye.com/)  
-
 
 [阿里加多](https://www.jianshu.com/u/b230a86fb7ad)
 
@@ -66,6 +62,10 @@ http://www.cnblogs.com/LBSer/
 [木洛 阿里云技术专家，表格存储](https://yq.aliyun.com/users/jwbhxydfk6qyi/article)
 
 [成喆 阿里云存储服务](https://yq.aliyun.com/users/u3vivzisyg2pc/)
+
+[文意 阿里云存储服务产品](https://yq.aliyun.com/users/zh5kxxfngqw2m)  serverless 场景
+
+[scorpion 阿里云函数计算研发经理](https://yq.aliyun.com/users/fbt6ovijrs2zi) 函数计算
 
 ---
 
@@ -146,9 +146,11 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 阿里云栖社区 
 
-0. [阿里云栖  技术团队入口](https://yq.aliyun.com/teams)  
+0.0 [博客热门标签](https://yq.aliyun.com/tags/)
 
-1. [阿里 ATA]()
+0.1 [阿里云栖  技术团队入口](https://yq.aliyun.com/teams)  
+
+1. [阿里技术协会 ATA](https://yq.aliyun.com/tags/tagid_523/)
 
 2. [阿里云社区做过的在线峰会](https://yq.aliyun.com/topic?spm=a2c4e.11154022.headermainnav.11.7037aMQGaMQGE8#guid-721571)
 
@@ -170,10 +172,13 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 11. [阿里云实时计算](https://yq.aliyun.com/teams/67)
 
+12. [阿里中间件团队](https://yq.aliyun.com/teams/22)
+
 
 SOFA 微信公众号
 
-5. [Nginx开发从入门到精通 <- Tengine](http://tengine.taobao.org/book/index.html)
+[Nginx开发从入门到精通 <- Tengine](http://tengine.taobao.org/book/index.html)
+[数据库内核月报 淘宝数据库组](http://mysql.taobao.org/monthly/) 
 
 ---
 facebook https://code.fb.com/
