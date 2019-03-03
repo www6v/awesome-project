@@ -37,7 +37,8 @@ http://www.jobbole.com/members/meituanalibaba/
 http://www.cnblogs.com/LBSer/
 
 
-[横云断岭/hengyunabc](http://hengyunabc.github.io/)
+[横云断岭/hengyunabc hexo](http://hengyunabc.github.io/)
+[横云断岭/hengyunabc csdn](https://blog.csdn.net/hengyunabc)
 
 [傲小剑](https://skyao.io/#posts)  service mesh    
 
@@ -66,6 +67,8 @@ http://www.cnblogs.com/LBSer/
 [文意 阿里云存储服务产品](https://yq.aliyun.com/users/zh5kxxfngqw2m)  serverless 场景
 
 [scorpion 阿里云函数计算研发经理](https://yq.aliyun.com/users/fbt6ovijrs2zi) 函数计算
+
+[Freewill 阿里云的人 SDN ceph](https://www.cnblogs.com/bodhitree/default.html)
 
 ---
 
@@ -120,6 +123,10 @@ https://jinnianshilongnian.iteye.com/
 [张逸的博客](https://www.cnblogs.com/wayfarer/default.html)
 
 [银文杰 <<高性能服务系统构建与实战>>](https://blog.csdn.net/yinwenjie/article/list/1?)
+
+[汤雪华，DDD/CQRS](http://www.cnblogs.com/netfocus/)
+
+[张晓龙  golang](https://www.jianshu.com/u/1381dc29fed9)
 
 ----
 
