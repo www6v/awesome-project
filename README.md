@@ -135,9 +135,8 @@ arthas -> ali,
 *** 容器  
 dockerFiles ,  
 DevOps ,  
-derrick ,  
+derrick  -> docker小工具 阿里,  
 docker-compose-repo, 
-
 
 Spring ,  
 cooma ,  
@@ -150,6 +149,13 @@ chaos-monkey  -> netflix
 kube-monkey
 PowerfulSeal
 ChaosBlade -> 阿里要开源的
+
+----
+cncf
+cncf/landscape
+grpc
+k8s
+etcd
 
 -----
 
