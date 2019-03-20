@@ -66,7 +66,7 @@ SpringBoot-Dubbo-Docker-Jenkins,
 -----
 
 *** 服务容错  
-Sentinel , 
+Sentinel ,      
 Hystrix ,  
 
 -----
