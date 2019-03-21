@@ -179,6 +179,7 @@ hystrix-go,
 go-resiliency,    
 cticker -> hashwheel,   
 wonderfogo -> go资料  
+jobbole/awesome-go-cn -> go资料
 
 ----
 
