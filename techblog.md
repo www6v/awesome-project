@@ -129,14 +129,14 @@ k8s & 容器
 
 [钟华 腾讯云](https://imfox.io/)
 
-[张磊 阿里云](https://feisky.xyz/)
-[张磊@知乎 阿里云](https://www.zhihu.com/people/feisky/posts)
-[Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)
+[张磊 阿里云](https://feisky.xyz/)  
+[张磊@知乎 阿里云](https://www.zhihu.com/people/feisky/posts)  
+[Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)  
 
-[宋净超 service mesh](https://jimmysong.io/)
-[Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/) 
+[宋净超 service mesh](https://jimmysong.io/)  
+[Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)   
 
-[傲小剑](https://skyao.io/#posts)  service mesh   
+[傲小剑  service mesh](https://skyao.io/#posts)       
 
 ----
 
