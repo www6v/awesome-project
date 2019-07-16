@@ -133,6 +133,8 @@ https://jinnianshilongnian.iteye.com/
 k8s & 容器  
 [崔秀龙](https://blog.fleeto.us/)
 
+[钟华 腾讯云](https://imfox.io/)
+
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
