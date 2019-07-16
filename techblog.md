@@ -135,6 +135,8 @@ k8s & 容器
 
 [钟华 腾讯云](https://imfox.io/)
 
+[张磊 阿里云](https://www.zhihu.com/people/feisky/posts)
+
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
