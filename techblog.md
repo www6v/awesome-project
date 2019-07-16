@@ -134,9 +134,13 @@ k8s & 容器
 [Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)  
 
 [宋净超 service mesh](https://jimmysong.io/)  
-[Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)   
+[Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)    
 
-[傲小剑  service mesh](https://skyao.io/#posts)       
+[傲小剑  service mesh](https://skyao.io/#posts)        
+
+[cizixs@蚂蚁金服](https://cizixs.com/) 
+
+[赵化冰@ZTE](https://zhaohuabing.com/) 
 
 ----
 
