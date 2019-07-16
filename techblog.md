@@ -193,7 +193,9 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 11. [阿里云实时计算](https://yq.aliyun.com/teams/67)
 
-12. [阿里中间件团队](https://yq.aliyun.com/teams/22)
+12. [阿里中间件团队](https://yq.aliyun.com/teams/22)  
+
+13. [阿里巴巴云原生](https://yq.aliyun.com/teams/252)  
 
 
 SOFA 微信公众号
