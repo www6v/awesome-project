@@ -164,6 +164,8 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 [蚂蚁金融科技](https://tech.antfin.com/)
 
+[小米信息部技术团队](https://xiaomi-info.github.io/)
+
 [pingcap](https://pingcap.com/blog-cn/)
 
 
