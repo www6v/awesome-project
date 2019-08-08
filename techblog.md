@@ -144,6 +144,7 @@ k8s & 容器
 
 [赵化冰@ZTE](https://zhaohuabing.com/) 
 
+[刘超的通俗云计算  网易云首席架构](https://www.cnblogs.com/popsuper1982/)
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
