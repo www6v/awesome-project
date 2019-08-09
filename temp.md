@@ -109,6 +109,7 @@
 ```
 
 *** device info json 结构***
+
 |     Key     |  ValType  |  Explain  |
 | :---------: | :-------: | :-------: |
 | sdkv       | string 1.2.3 主版本.小版本.构建次数 | sdk 版本号 |
