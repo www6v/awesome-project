@@ -131,8 +131,8 @@ k8s & 容器
 
 [钟华 腾讯云](https://imfox.io/)
 
-[张磊 阿里云](https://feisky.xyz/)  
-[张磊@知乎 阿里云](https://www.zhihu.com/people/feisky/posts)  
+[倪朋飞 阿里云](https://feisky.xyz/)  
+[倪朋飞@知乎 阿里云](https://www.zhihu.com/people/feisky/posts)  
 [Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)  
 
 [宋净超 service mesh](https://jimmysong.io/)  
@@ -145,6 +145,8 @@ k8s & 容器
 [赵化冰@ZTE](https://zhaohuabing.com/) 
 
 [刘超的通俗云计算  网易云首席架构](https://www.cnblogs.com/popsuper1982/)
+
+
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
