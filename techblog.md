@@ -131,8 +131,8 @@ k8s & 容器
 
 [钟华 腾讯云](https://imfox.io/)
 
-[倪朋飞 阿里云](https://feisky.xyz/)  
-[倪朋飞@知乎 阿里云](https://www.zhihu.com/people/feisky/posts)  
+[倪朋飞 微软](https://feisky.xyz/)  
+[倪朋飞@知乎 微软](https://www.zhihu.com/people/feisky/posts)  
 [Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)  
 
 [宋净超 service mesh](https://jimmysong.io/)  
