@@ -269,7 +269,7 @@
 ## 通话操作 （type 3 call.opertion） 暂无表述
 
 
-``` flow
+```flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -277,4 +277,4 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-& ```
+&```
