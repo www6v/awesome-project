@@ -4,3 +4,4 @@
 3. 负载， 负载均衡， load balance
 4. 算法
 5. 优化 [大多是hadoop]
+6. LRU
