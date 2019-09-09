@@ -215,6 +215,7 @@ SOFA 微信公众号
 
 
 [百度技术学院](http://bit.baidu.com/)
+[百度开发者中心](https://developer.baidu.com/)
 
 ---
 facebook https://code.fb.com/
