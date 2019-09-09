@@ -213,6 +213,9 @@ SOFA 微信公众号
 [Nginx开发从入门到精通 <- Tengine](http://tengine.taobao.org/book/index.html)
 [数据库内核月报 淘宝数据库组](http://mysql.taobao.org/monthly/) 
 
+
+[百度技术学院](http://bit.baidu.com/)
+
 ---
 facebook https://code.fb.com/
 
