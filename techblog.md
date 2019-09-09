@@ -214,8 +214,8 @@ SOFA 微信公众号
 [数据库内核月报 淘宝数据库组](http://mysql.taobao.org/monthly/) 
 
 
-[百度技术学院](http://bit.baidu.com/)
-[百度开发者中心](https://developer.baidu.com/)
+[百度技术学院](http://bit.baidu.com/)   
+[百度开发者中心](https://developer.baidu.com/)    
 
 ---
 facebook https://code.fb.com/
