@@ -10,11 +10,12 @@
 8. 架构  
 9. 分布式(36)   
 10. index(19)  索引(13)
+11.  mysql(32) 
 
 ---
 ## 想迁移的tag
 
-cache(49) nosql(46)   mysql(32) 
+cache(49) nosql(46)  
 zookeeper(20) database(19)  kafka(17) performance(16) 事务(12) 性能(11) 
 it， kafka(1)
 
