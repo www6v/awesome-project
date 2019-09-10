@@ -50,7 +50,7 @@ pojo(2) Unix(2) relook+1(2) 函数式编程(2) shell(2) 分布式存储(2) map-r
 领域模型(2) 存储(2) 电商(2) hdfs概念(2) architect(2) 排序(2) 分布式版本控制(2) article(2) job(2) 分布式锁(2) 服务发现(2) 软件架构(2) 
 webService(2) 故障(2) Hadoop生态图谱(2) Berkeley_DB(2) 极端事务处理(2) 论文(2) 双重检查(2) 分词(2) 队列(2) SVM(2) id(2) 贝叶斯(2) 日志(2) 
 bigdata(2) SEDA(2) 全局排序(2) lzo(2) 内存(2) UDTF(2) antiPattern(2) 安装(2) 分布式版本控制系统(2) B树(2) 共享表空间(2) 贫血领域模型(2) 
-可扩展(2) Lambda表达式(2) server(2) 反模式(2) scale(2) 稳定性(2) 扩展性(2) EBay(2) 数据中心(2) maven(2) hiveIndex(2) 高可用(2) http(2) 
+可扩展(2) Lambda表达式(2) server(2) 反模式(2) scale(2) 稳定性(2) 扩展性(2) EBay(2) 数据中心(2) maven(2)  高可用(2) http(2) 
 JBoss(2)  messaging(2) Databases(2) 云(2) anti-pattern(2) clustering(2) 安全(2) 事务隔离级别(2) RHive(2) testing(2) 分类器(2)
 bucket(2) MyBatis3(2) 功能开关(2) PNUTS(2) DAG(2) 咖啡豆问题(2) 反面模式(1) 文法(1) 代码实践(1) web service(1) CapacityScheduler(1) 
 Jim(1) slowlog(1) 范式(1) secondary index(1) 原子性(1) 组织结构(1) query(1) B2C(1) 操作系统(1) hiberante(1) 偏应用函数(1) flash(1) 
@@ -74,7 +74,7 @@ DB2(1) developer(1) 文件(1) A/B测试(1) monitor(1) Buffer(1) Locality(1) mart
 hadoop优化(1) CDH4(1) 图片服务器(1) flex(1) Read-Through(1) BPMN(1) A/B(1) hbaseCoprocessor(1) 建模(1) Jetty(1) 哈希(1) 规则(1) 
 it， database(1) bigpipe(1) opensocial(1) 乐观锁(1) 缓存策略(1) hadoop压缩(1) 海量数据(1) 反向代理(1) 中文分词(1) 复习(1) 
 it， nosql， 分布式(1) functional-programming(1) Lambda 表达式(1) principles(1) slave(1) Type(1) explorer(1) 
-羊群效应(1) container(1) 资源调度(1) redolog(1) 模型(1) iptable(1) 异构数据库(1) secondary-index-coprocessor(1) 
+羊群效应(1) container(1) 资源调度(1) redolog(1) 模型(1) iptable(1) 异构数据库(1) 
 类图(1) 格式(1) sharding-by-id-characteristic(1) Protocol Buffers(1) firefox(1) it， hadoop， nosql(1) 
 集团客户业务(1) logFormat(1) cookie(1) GCT(1) Flashcache(1) 精准投放(1) 变量、参数和模板调用(1) maven安装(1) 
 可伸缩系统(1) jobtracker(1) facingJoy(1) singleton(1) Samba(1) 有向无环图(1) researcher(1) code(1) SerDe(1) 
@@ -85,10 +85,10 @@ Xtext(1) fail(1) cross-site(1) nonblocking(1) Write-behind缓存(1) dubbo(1) PV�
 元数据(1) 数字签名(1) english(1) soapatterns(1) 半结构化数据(1) gossip协议(1) Twitter运维经验(1) awk(1) map_reduce(1) oozie(1) DHT(1)
 QQ(1) QQ空间(1) 阻塞队列(1) windows(1) doc(1) classloader(1) 短连接(1) face(1) mapreduce二次排序(1) 保存方式(1) LSM-tree(1) 压力测试(1)
 validator(1) Scalable(1) 部署工具(1) pv(1) 文法分析(1) 心理学(1) hbase表设计(1) 实时处理(1) 阻塞(1) datagrid(1) 结构化数据(1) 设计(1) 
-secondaryIndexing(1) architecture.distributedsystem(1) HiveQL(1) explain(1) mysqlProxy(1) jolt(1) DVCS(1) 不可判定问题(1) cursor(1) 
+ architecture.distributedsystem(1) HiveQL(1) explain(1) mysqlProxy(1) jolt(1) DVCS(1) 不可判定问题(1) cursor(1) 
 money(1)  应用场景(1) 宕机(1) luke(1) 商业(1) BOSS(1) ssh(1) 一致性hash(1) GPU(1) 锁定(1) 原则(1) it， mapreduce(1) 
 CDH4安装(1) activiti(1) nginx高可用(1) evictions(1) RCFile(1) eventually(1) Dynamically(1) Gmail(1) habit(1) geohash(1) 
-ArchitectureInternals(1) Wikipedia(1) lazy(1) module(1) computer(1) Indexed(1) sport(1) 相约你我(1) weibo(1) 试题(1) 
+ArchitectureInternals(1) Wikipedia(1) lazy(1) module(1) computer(1) Indexed(1) sport(1) 相约你我(1) weibo(1) 试题(1)  secondaryIndexing(1)
 master-slave(1) movie(1) hadoopContribute(1) joy(1) cache一致性(1) 房(1) Atomic(1) available(1) 限制(1) parent(1) 
 分区容忍性(1) pagelet(1) ws(1) 最终一致性(1) microservice(1) 体育用品(1) DDD(1) 分布式数据访问(1) 英语(1) tf-idf(1) hardlink(1) 
 continuousintegration(1) Result(1) 聚类(1) 错误处理(1) evict(1) 鼠标加水泥(1) XPCOM(1) AOP织入时机(1) 单点(1) 区别(1) 房价(1) 
@@ -115,3 +115,7 @@ hbasebulkload(1) 编程珠玑(1) 概念(1) it ， book， 书(1) 工作流引擎
 分布式， session(1) c#(1) LeaderElection(1) mock(1) 忠诚度(1) 部署(1) enterprise(1) CND(1) Reactor模式(1) DFS(1) variable(1) 
 it， hadoop， MRv2(1) ID生成(1) 可降级的服务(1) 开放数据集(1) MediaV(1) 非聚簇索引(1) 论坛(1) 配置管理中心(1) cookbook(1) 
 二阶段提交(1) 数据集(1)
+
+-----
+## 不需要迁移的
+hiveIndex(2)   secondary-index-coprocessor(1) 
