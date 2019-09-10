@@ -18,6 +18,7 @@ zookeeper(20) database(19)  kafka(17) performance(16) 事务(12) 性能(11)
 it， kafka(1)
 
 -----
+## 没迁移过的tag
 
 hadoop(142) hbase(55)  认证(43)  hive(34) java(33) 已打印(29) 
  memcache(24) mapreduce(23)  index(19) mq(17)  并发(17) web(17) hdfs(16) 
