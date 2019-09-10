@@ -1,15 +1,28 @@
 
-it(1001) hadoop(142) 架构(65) architecture(65) hbase(55) cache(49) nosql(46) 认证(43) 分布式(36) hive(34) java(33) mysql(32) 已打印(29) 
-techblog(26) memcache(24) mapreduce(23) zookeeper(20) database(19) index(19) mq(17) kafka(17) 并发(17) web(17) hdfs(16) performance(16)
-Hibernate(15) mahout(14) 算法(14) 索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 事务(12)
+已经迁移过的tag
+1. techblog(26)
+2. 优化(4)
+3. 负载均衡(8) loadbalance(7)  load_balance(6) load(5)
+4. 算法(14)
+5. 优化(4) [大多是hadoop]
+6. LRU  
+7. 异步化    
+8. 架构  
+9. 分布式 [要看，还没看]  
+
+
+
+hadoop(142) hbase(55) cache(49) nosql(46) 认证(43) 分布式(36) hive(34) java(33) mysql(32) 已打印(29) 
+ memcache(24) mapreduce(23) zookeeper(20) database(19) index(19) mq(17) kafka(17) 并发(17) web(17) hdfs(16) performance(16)
+Hibernate(15) mahout(14)  索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 事务(12)
 缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) hadoopHA(11) 性能(11) 
 推荐系统(10) 实时计算(10) taobao(10) design(10) 大数据(10) MongoDB(10) SOA(10) infoq(10) 服务(9) 面试(9) ha(9) Cluster(9) linux(9) 
-blog(9) twitter(9) tech(9) 微服务(9) media:document(8) osgi(8) 负载均衡(8) 流式计算(8) filetype:pdf(8) javascript(8) transaction(8) 
-loadbalance(7) 模式(7) 面试题(7) sharding(7) html5(7) 可用性(7) nginx(7) scala(7) pattern(7) tomcat(7) gc(6) disruptor(6) 调度器(6) 
-cloud(6) 云计算(6) join(6) load_balance(6) 可靠性(6) 可伸缩性(6) book(6) hadoop安装(5) hash(5) 配置管理(5) Megastore(5) GIT(5) Dynamo(5) 
+blog(9) twitter(9) tech(9) 微服务(9) media:document(8) osgi(8)  流式计算(8) filetype:pdf(8) javascript(8) transaction(8) 
+模式(7) 面试题(7) sharding(7) html5(7) 可用性(7) nginx(7) scala(7) pattern(7) tomcat(7) gc(6) disruptor(6) 调度器(6) 
+cloud(6) 云计算(6) join(6)  可靠性(6) 可伸缩性(6) book(6) hadoop安装(5) hash(5) 配置管理(5) Megastore(5) GIT(5) Dynamo(5) 
 数据挖掘(5) storage(5) orm(5) 分类(5) filter(5) hadoop调度器(5) hive优化(5) namenode(5) hadoop 优化(5) xslt(5) scalability(5) 
-solr(5) Shuffle(5) load(5) 组件(5) 数据库(5) tcp(5) rest(5) HBase二级索引(5) thread(5) 分布式事务(5) google(5) log(5) 用户行为分析(5)
-pig(5) test(5) sql(5) facebook(4) consistent(4) DSSA(4) data(4) Protocol(4) service(4) hbase安装(4) Comet(4) 异步(4) 优化(4) 网络(4) 
+solr(5) Shuffle(5)  组件(5) 数据库(5) tcp(5) rest(5) HBase二级索引(5) thread(5) 分布式事务(5) google(5) log(5) 用户行为分析(5)
+pig(5) test(5) sql(5) facebook(4) consistent(4) DSSA(4) data(4) Protocol(4) service(4) hbase安装(4) Comet(4) 异步(4)  网络(4) 
 锁(4) concurrency(4) 一致性哈希(4) paxos(4) Ajax(4) balance(4) document(4) Bloom(4) 推荐引擎(4) 一致性(4) command(4) model(4) agile(4)
 ORACLE(4) Reactor(4) concurrent(4) 消息(4) kmeans(4) hbase优化(4) 恋爱(4) 并行(4) 命令(4) compact(3) Apache(3) 服务器(3) EDA(3) hadoop配置(3)
 电子商务(3) 跨域(3) apply-template(3) 架构风格(3) designpatterns(3) queue(3) hbase问题解决方案(3) love(3) mesos(3) BBOSS(3) CAP(3) 
