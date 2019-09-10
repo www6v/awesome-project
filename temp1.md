@@ -1,5 +1,5 @@
 
-已经迁移过的tag
+## 已经迁移过的tag
 1. techblog(26)
 2. 优化(4)
 3. 负载均衡(8) loadbalance(7)  load_balance(6) load(5)
@@ -8,14 +8,21 @@
 6. LRU  
 7. 异步化    
 8. 架构  
-9. 分布式 [要看，还没看]  
+9. 分布式 [要看，还没看] 
+
+---
+## 想迁移的tag
+
+cache(49) nosql(46) 分布式(36)  mysql(32) 
+zookeeper(20) database(19)  kafka(17) performance(16) 事务(12) 性能(11) 
+it， kafka(1)
 
 -----
 
-hadoop(142) hbase(55) cache(49) nosql(46) 认证(43) 分布式(36) hive(34) java(33) mysql(32) 已打印(29) 
- memcache(24) mapreduce(23) zookeeper(20) database(19) index(19) mq(17) kafka(17) 并发(17) web(17) hdfs(16) performance(16)
-Hibernate(15) mahout(14)  索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 事务(12)
-缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) hadoopHA(11) 性能(11) 
+hadoop(142) hbase(55)  认证(43)  hive(34) java(33) 已打印(29) 
+ memcache(24) mapreduce(23)  index(19) mq(17)  并发(17) web(17) hdfs(16) 
+Hibernate(15) mahout(14)  索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 
+缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) hadoopHA(11) 
 推荐系统(10) 实时计算(10) taobao(10) design(10) 大数据(10) MongoDB(10) SOA(10) infoq(10) 服务(9) 面试(9) ha(9) Cluster(9) linux(9) 
 blog(9) twitter(9) tech(9) 微服务(9) media:document(8) osgi(8)  流式计算(8) filetype:pdf(8) javascript(8) transaction(8) 
 模式(7) 面试题(7) sharding(7) html5(7) 可用性(7) nginx(7) scala(7) pattern(7) tomcat(7) gc(6) disruptor(6) 调度器(6) 
@@ -77,7 +84,7 @@ Xtext(1) fail(1) cross-site(1) nonblocking(1) Write-behind缓存(1) dubbo(1) PV�
 QQ(1) QQ空间(1) 阻塞队列(1) windows(1) doc(1) classloader(1) 短连接(1) face(1) mapreduce二次排序(1) 保存方式(1) LSM-tree(1) 压力测试(1)
 validator(1) Scalable(1) 部署工具(1) pv(1) 文法分析(1) 心理学(1) hbase表设计(1) 实时处理(1) 阻塞(1) datagrid(1) 结构化数据(1) 设计(1) 
 secondaryIndexing(1) architecture.distributedsystem(1) HiveQL(1) explain(1) mysqlProxy(1) jolt(1) DVCS(1) 不可判定问题(1) cursor(1) 
-money(1) it， kafka(1) 应用场景(1) 宕机(1) luke(1) 商业(1) BOSS(1) ssh(1) 一致性hash(1) GPU(1) 锁定(1) 原则(1) it， mapreduce(1) 
+money(1)  应用场景(1) 宕机(1) luke(1) 商业(1) BOSS(1) ssh(1) 一致性hash(1) GPU(1) 锁定(1) 原则(1) it， mapreduce(1) 
 CDH4安装(1) activiti(1) nginx高可用(1) evictions(1) RCFile(1) eventually(1) Dynamically(1) Gmail(1) habit(1) geohash(1) 
 ArchitectureInternals(1) Wikipedia(1) lazy(1) module(1) computer(1) Indexed(1) sport(1) 相约你我(1) weibo(1) 试题(1) 
 master-slave(1) movie(1) hadoopContribute(1) joy(1) cache一致性(1) 房(1) Atomic(1) available(1) 限制(1) parent(1) 
