@@ -9,6 +9,7 @@
 7. 异步化(2)    
 8. 架构  
 9. 分布式(36)   
+10. index(19)
 
 ---
 ## 想迁移的tag
@@ -21,7 +22,7 @@ it， kafka(1)
 ## 没迁移过的tag
 
 hadoop(142) hbase(55)  认证(43)  hive(34) java(33) 已打印(29) 
- memcache(24) mapreduce(23)  index(19) mq(17)  并发(17) web(17) hdfs(16) 
+ memcache(24) mapreduce(23)   mq(17)  并发(17) web(17) hdfs(16) 
 Hibernate(15) mahout(14)  索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 
 缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) hadoopHA(11) 
 推荐系统(10) 实时计算(10) taobao(10) design(10) 大数据(10) MongoDB(10) SOA(10) infoq(10) 服务(9) 面试(9) ha(9) Cluster(9) linux(9) 
