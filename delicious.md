@@ -5,15 +5,16 @@
 3. 负载均衡(8) loadbalance(7)  load_balance(6) load(5)
 4. 算法(14)
 5. 优化(4) [大多是hadoop]
-6. LRU  
-7. 异步化    
+6. LRU(2) 
+7. 异步化(2)    
 8. 架构  
-9. 分布式 [要看，还没看] 
+9. 分布式(36)  
+10. 
 
 ---
 ## 想迁移的tag
 
-cache(49) nosql(46) 分布式(36)  mysql(32) 
+cache(49) nosql(46)   mysql(32) 
 zookeeper(20) database(19)  kafka(17) performance(16) 事务(12) 性能(11) 
 it， kafka(1)
 
@@ -40,7 +41,7 @@ yarn(3) 体质(3) 语言(3) Replication(3) XP(3) schema(3) 可扩展性(3) 无�
 localCache(3) PB(3) 消息队列(3) Pagination(3) component(3) 微博(3) Struts2(3) coprocessor(3) 表join(3) CDN(3) RUP(3) 中医(3) io(3) rdd(3)
 development(3) 架构师(3) 同步(3) 配置中心(3) Shard(3) ProtocolBuffer(3) DomainModel(3) datacenter(3) done(3) 工作流(3) extjs(3) modularity(3)
 模块化(3) GFS(3) P2P(3) sort(3) ibatis(3) 多线程(3) MVCC(3) 单点故障(3) OOD(3) OOA(3) demo(2) DevOps(2) 淘宝(2) 虚拟化(2) jvm(2) esb(2)
-baidu(2) SNS(2) 协议(2) BerkeleyDB(2) DSL(2) rdf(2) 分析(2) CAP原理(2) api(2) 锁模式(2) Theorem(2) virtualize(2) UDAF(2) JSONP(2) 异步化(2)
+baidu(2) SNS(2) 协议(2) BerkeleyDB(2) DSL(2) rdf(2) 分析(2) CAP原理(2) api(2) 锁模式(2) Theorem(2) virtualize(2) UDAF(2) JSONP(2) 
 事务属性(2) 本地cache(2) strom(2) 高并发(2) feature(2) trie树(2) protobuf(2) aop(2) WebSockets(2) github(2) sca(2) 测试(2) doubleCheck(2) 
 forkjoin(2) LBS(2) 单例(2) coffee(2) cqrs(2) NIO(2) 商业模式(2) 设计模式(2) message(2) 支持向量机(2) 问题(2) jQuery(2) url(2) SSD(2) 
 session复制(2) struts(2) master(2) 小文件问题(2) Netty(2) 锁服务(2) ConsistentHashing(2) tool(2) 搜索算法(2) 百度(2) hashing(2) 
@@ -50,7 +51,7 @@ pojo(2) Unix(2) relook+1(2) 函数式编程(2) shell(2) 分布式存储(2) map-r
 webService(2) 故障(2) Hadoop生态图谱(2) Berkeley_DB(2) 极端事务处理(2) 论文(2) 双重检查(2) 分词(2) 队列(2) SVM(2) id(2) 贝叶斯(2) 日志(2) 
 bigdata(2) SEDA(2) 全局排序(2) lzo(2) 内存(2) UDTF(2) antiPattern(2) 安装(2) 分布式版本控制系统(2) B树(2) 共享表空间(2) 贫血领域模型(2) 
 可扩展(2) Lambda表达式(2) server(2) 反模式(2) scale(2) 稳定性(2) 扩展性(2) EBay(2) 数据中心(2) maven(2) hiveIndex(2) 高可用(2) http(2) 
-JBoss(2) LRU(2) messaging(2) Databases(2) 云(2) anti-pattern(2) clustering(2) 安全(2) 事务隔离级别(2) RHive(2) testing(2) 分类器(2)
+JBoss(2)  messaging(2) Databases(2) 云(2) anti-pattern(2) clustering(2) 安全(2) 事务隔离级别(2) RHive(2) testing(2) 分类器(2)
 bucket(2) MyBatis3(2) 功能开关(2) PNUTS(2) DAG(2) 咖啡豆问题(2) 反面模式(1) 文法(1) 代码实践(1) web service(1) CapacityScheduler(1) 
 Jim(1) slowlog(1) 范式(1) secondary index(1) 原子性(1) 组织结构(1) query(1) B2C(1) 操作系统(1) hiberante(1) 偏应用函数(1) flash(1) 
 uml(1) 面向对象(1) Cygwin(1) 聚簇索引(1) 本地緩存(1) 0mq(1) g1(1) 内存队列系统(1) 数据迁移(1) O2O(1) 贴吧(1) difference(1) servlet(1) 
