@@ -23,8 +23,8 @@ it， kafka(1)
 
 hadoop(142) hbase(55)  认证(43)  hive(34) java(33) 已打印(29) 
  memcache(24) mapreduce(23)   mq(17)  并发(17) web(17) hdfs(16) 
-Hibernate(15) mahout(14)  索引(13) 机器学习(13) storm(13) 集群(13) Cassandra(13) 数据结构(13) distributed(13) 
-缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) hadoopHA(11) 
+   索引(13) 机器学习(13)  集群(13)  数据结构(13) distributed(13) 
+缓存(12) memcached(12) rabbitmq(12) 推荐(12) db(12) spark(12) spring(12) redis(12) innodb(11) 
 推荐系统(10) 实时计算(10) taobao(10) design(10) 大数据(10) MongoDB(10) SOA(10) infoq(10) 服务(9) 面试(9) ha(9) Cluster(9) linux(9) 
 blog(9) twitter(9) tech(9) 微服务(9) media:document(8) osgi(8)  流式计算(8) filetype:pdf(8) javascript(8) transaction(8) 
 模式(7) 面试题(7) sharding(7) html5(7) 可用性(7) nginx(7) scala(7) pattern(7) tomcat(7) gc(6) disruptor(6) 调度器(6) 
@@ -117,5 +117,6 @@ it， hadoop， MRv2(1) ID生成(1) 可降级的服务(1) 开放数据集(1) Med
 二阶段提交(1) 数据集(1)
 
 -----
-## 不需要迁移的
-hiveIndex(2)   secondary-index-coprocessor(1) 
+## 不需要迁移的 
+hiveIndex(2)   secondary-index-coprocessor(1)  storm(13) hadoopHA(11)  Cassandra(13)  Hibernate(15)  mahout(14)
+ 
