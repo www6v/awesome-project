@@ -72,11 +72,9 @@ http://blog.csdn.net/mindfloating/article/details/51221780
 crossoverjie
 https://crossoverjie.top/
 
-占小狼 -- 点评 jvm
-http://www.jianshu.com/u/90ab66c248e6
+[占小狼 -- 点评](http://www.jianshu.com/u/90ab66c248e6) jvm
 
-周志明 的博客   -      java虚拟机  这本书的作者
-http://icyfenix.iteye.com/
+[周志明 的博客 ](http://icyfenix.iteye.com/)  java虚拟机  这本书的作者
 
 Float_Luuu  大众点评网 - 高级程序员
 http://my.oschina.net/andylucc/home
@@ -86,11 +84,9 @@ http://my.oschina.net/andylucc/home
 http://dongxicheng.org/
 
 
-水寒  网易研发工程师
-https://www.cnblogs.com/java-zhao/
+[水寒  网易研发工程师](https://www.cnblogs.com/java-zhao/)
 
-京东 张开涛
-https://jinnianshilongnian.iteye.com/
+[京东 张开涛](https://jinnianshilongnian.iteye.com/)
 
 零度 jvm
 
@@ -100,11 +96,11 @@ https://jinnianshilongnian.iteye.com/
 
 老钱 redis 阅文集团
 
-鸟窝 Java， golang  微博架构师 
+[鸟窝]() Java， golang  微博架构师 
 
-花钱的年华 江南白衣  基础架构
+[花钱的年华 江南白衣]()  基础架构
 
-程序猿DD springCloud
+[程序猿DD]() springCloud
 
 [瀚海星空](http://abloz.com/)
 
@@ -120,7 +116,7 @@ https://jinnianshilongnian.iteye.com/
 
 [汤雪华，DDD/CQRS](http://www.cnblogs.com/netfocus/)
 
-[张晓龙  golang](https://www.jianshu.com/u/1381dc29fed9)
+[张晓龙](https://www.jianshu.com/u/1381dc29fed9)  golang
 
 ----
 大数据 
