@@ -58,17 +58,16 @@ http://www.cnblogs.com/LBSer/
 [Freewill 阿里云的人 SDN ceph](https://www.cnblogs.com/bodhitree/default.html)
 
 ---
-[Microservice 微服务的理论模型和现实路径 -- 京东的人](http://blog.csdn.net/mindfloating/article/details/51221780)
+
+[Microservice 微服务的理论模型和现实路径 -- 京东的人](http://blog.csdn.net/mindfloating/article/details/51221780)  
+
 [crossoverjie](https://crossoverjie.top/)
-
-
 
 [占小狼 -- 点评](http://www.jianshu.com/u/90ab66c248e6) jvm
 
 [周志明 的博客 ](http://icyfenix.iteye.com/)  java虚拟机  这本书的作者
 
 [Float_Luuu  大众点评网 - 高级程序员](http://my.oschina.net/andylucc/home)  
-
 
 [水寒  网易研发工程师](https://www.cnblogs.com/java-zhao/)
 
