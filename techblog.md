@@ -148,7 +148,8 @@ k8s & 容器
 
 [刘超的通俗云计算  网易云首席架构](https://www.cnblogs.com/popsuper1982/)
 
-[陈鹏](https://imroc.io/)  腾讯云工程师  k8s
+[陈鹏](https://imroc.io/) 腾讯云工程师 k8s
+ 
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
@@ -175,6 +176,7 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 
 [pingcap](https://pingcap.com/blog-cn/)
 
+[腾讯云容器服务团队的专栏](https://cloud.tencent.com/developer/column/1075/tag-0)
 
 阿里云栖社区 
 
