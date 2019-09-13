@@ -128,7 +128,7 @@ http://dongxicheng.org/
 ----
 
 k8s & 容器  
-[崔秀龙](https://blog.fleeto.us/)
+[崔秀龙](https://blog.fleeto.us/) istio 
 
 [钟华 腾讯云](https://imfox.io/)     
 [腾讯云容器团队](https://tencentcloudcontainerteam.github.io/)       
@@ -148,7 +148,7 @@ k8s & 容器
 
 [刘超的通俗云计算  网易云首席架构](https://www.cnblogs.com/popsuper1982/)
 
-
+[陈鹏](https://imroc.io/)  腾讯云工程师  k8s
 ----
 
 国内各大互联网公司相关技术站点2.0版 （集合腾讯、阿里、百度、搜狐、新浪、360等共49个）
