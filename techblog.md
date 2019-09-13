@@ -154,7 +154,9 @@ http://www.cnblogs.com/IT-Bear/p/3191423.html
 [今日头条 技术博客](https://techblog.toutiao.com/2017/05/02/dao/)
 
 [ArchSummit 知乎](https://www.zhihu.com/org/archsummit/activities)
+
 [青云QingCloud 知乎](https://zhuanlan.zhihu.com/qingcloud)
+
 [有赞技术团队 知乎 干货挺多](https://www.zhihu.com/org/you-zan-ji-zhu-tuan-dui/activities)
 
 [蚂蚁金融科技](https://tech.antfin.com/)
