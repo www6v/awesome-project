@@ -1,41 +1,34 @@
-碧远 蚂蚁金服中间件
-http://leaver.me/
+[碧远 蚂蚁金服中间件](http://leaver.me/)  
 
-蚂蚁财富研发工程师
-http://monkeyhorse.cn/
+[蚂蚁财富研发工程师](http://monkeyhorse.cn/)  
 
-李小武，coding@alibaba。
-http://blog.lichengwu.cn/
+[李小武，coding@alibaba。](http://blog.lichengwu.cn/)  
 
-阿里人
-http://www.blogjava.net/BlueDavy/
+[阿里人](http://www.blogjava.net/BlueDavy/)  
+
+[黄若慧](http://blog.zephyrleaves.net/) 在阿里巴巴负责闲鱼技术团队  高级技术专家   淘宝文通
+
 
 入境繁华  蚂蚁金服中间件团队
 http://zhengjianglong.cn
 http://blog.leanote.com/along
 
-黄若慧   在阿里巴巴负责闲鱼技术团队  高级技术专家   淘宝文通
-http://blog.zephyrleaves.net/
 
 阿里人的博客 canel
 http://agapple.iteye.com/ 
 https://github.com/agapple
 
-阿里 林昊
-http://bluedavy.me/
+[阿里 林昊](http://bluedavy.me/)   
+[阿里 丁奇 dba](https://dinglin.iteye.com/)
+
 
 taobao   毕玄博客   做服务化的
 http://hellojava.info/
 hellojavacases微信公众号网站  加过
 
-
-阿里 丁奇 dba
-https://dinglin.iteye.com/
-
 占利军   一个专注于后端架构、算法的工程师 个人经历： 2015 至今 阿里巴巴； 2013-2015 美团； 
 http://www.jobbole.com/members/meituanalibaba/
 http://www.cnblogs.com/LBSer/
-
 
 [横云断岭/hengyunabc hexo](http://hengyunabc.github.io/)
 [横云断岭/hengyunabc csdn](https://blog.csdn.net/hengyunabc)
@@ -65,23 +58,16 @@ http://www.cnblogs.com/LBSer/
 [Freewill 阿里云的人 SDN ceph](https://www.cnblogs.com/bodhitree/default.html)
 
 ---
+[Microservice 微服务的理论模型和现实路径 -- 京东的人](http://blog.csdn.net/mindfloating/article/details/51221780)
+[crossoverjie](https://crossoverjie.top/)
 
-Microservice 微服务的理论模型和现实路径 -- 京东的人
-http://blog.csdn.net/mindfloating/article/details/51221780
 
-crossoverjie
-https://crossoverjie.top/
 
 [占小狼 -- 点评](http://www.jianshu.com/u/90ab66c248e6) jvm
 
 [周志明 的博客 ](http://icyfenix.iteye.com/)  java虚拟机  这本书的作者
 
-Float_Luuu  大众点评网 - 高级程序员
-http://my.oschina.net/andylucc/home
-
-
-董西成  大数据&算法
-http://dongxicheng.org/
+[Float_Luuu  大众点评网 - 高级程序员](http://my.oschina.net/andylucc/home)  
 
 
 [水寒  网易研发工程师](https://www.cnblogs.com/java-zhao/)
@@ -124,6 +110,8 @@ http://dongxicheng.org/
 [郭俊 Jason](http://www.jasongj.com/)   kafka spark
 
 [tianzhisheng](http://www.54tianzhisheng.cn/tags/Flink/)    flink
+
+[董西成  大数据&算法](http://dongxicheng.org/)  
 
 ----
 
