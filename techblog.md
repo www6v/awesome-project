@@ -9,33 +9,33 @@
 [黄若慧](http://blog.zephyrleaves.net/) 在阿里巴巴负责闲鱼技术团队  高级技术专家   淘宝文通
 
 
-入境繁华  蚂蚁金服中间件团队
-http://zhengjianglong.cn
-http://blog.leanote.com/along
+入境繁华  蚂蚁金服中间件团队  
+http://zhengjianglong.cn  
+http://blog.leanote.com/along  
 
 
-阿里人的博客 canel
-http://agapple.iteye.com/ 
-https://github.com/agapple
+阿里人的博客 canel  
+http://agapple.iteye.com/   
+https://github.com/agapple  
 
-[阿里 林昊](http://bluedavy.me/)   
-[阿里 丁奇 dba](https://dinglin.iteye.com/)
+[阿里 林昊](http://bluedavy.me/)     
+[阿里 丁奇 dba](https://dinglin.iteye.com/)  
 
 
-taobao   毕玄博客   做服务化的
-http://hellojava.info/
-hellojavacases微信公众号网站  加过
+taobao   毕玄博客   做服务化的  
+http://hellojava.info/  
+hellojavacases微信公众号网站  加过  
 
-占利军   一个专注于后端架构、算法的工程师 个人经历： 2015 至今 阿里巴巴； 2013-2015 美团； 
-http://www.jobbole.com/members/meituanalibaba/
-http://www.cnblogs.com/LBSer/
+占利军   后端架构、算法  阿里巴巴 美团；   
+http://www.jobbole.com/members/meituanalibaba/  
+http://www.cnblogs.com/LBSer/  
 
-[横云断岭/hengyunabc hexo](http://hengyunabc.github.io/)
-[横云断岭/hengyunabc csdn](https://blog.csdn.net/hengyunabc)
+[横云断岭/hengyunabc hexo](http://hengyunabc.github.io/)  
+[横云断岭/hengyunabc csdn](https://blog.csdn.net/hengyunabc)  
 
-[Software Engineer @ Alibaba Middleware Team](https://www.sczyh30.com/) 
+[Software Engineer @ Alibaba Middleware Team](https://www.sczyh30.com/)   
 
-[系统技术非业余研究](http://blog.yufeng.info/)
+[系统技术非业余研究](http://blog.yufeng.info/)  
 
 [arebya](http://arebya.com/) 质量不高
 
