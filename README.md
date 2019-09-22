@@ -1,6 +1,6 @@
 ## 自己的项目
 
-[dockerFiles](../../../../dockerFiles) -> 基于docker的系统,  
+[dockerFiles](../../../dockerFiles) -> 基于docker的系统,  
 hedwig -> 分布式服务治理框架  基于Akka,  
 rocketmq-compute -> rocketmq producer& comsumer,  
 jDemo -> java Demo,  
