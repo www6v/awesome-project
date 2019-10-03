@@ -73,6 +73,7 @@ go-chassis ->  microservice framework
 ### spring    
 [nacos-spring-project](../../../nacos-spring-project),    
 [SpringBoot-Dubbo-Docker-Jenkins](../../../SpringBoot-Dubbo-Docker-Jenkins),    
+spring-boot-inside ->  spring boot技术细节的相关demo
 
 -----
 
@@ -83,12 +84,13 @@ go-chassis ->  microservice framework
 
 ----
 
-### TCC事务  
+### TCC事务  && fescar
 fescar -> 阿里,    
 tcc-transaction ,     
 ByteTCC ,  
 Hmily ,  
 spring-cloud-rest-tcc,  
+fescar -> 阿里  
 
 ---
 
@@ -160,6 +162,8 @@ gardener -> SAP k8s 混合云,
 kruise -> ali ,   
 awesome-operators ->  operators,   
 openjdos  京东开源的容器调度,
+lucas -> etcd v3 api browser especially for learning kubernetes   
+kubernetes-vagrant-centos-cluster -> k8s setup
 
 
 kubernetes-in-action -> book
@@ -252,8 +256,8 @@ containerfs，
 ----
 
 ### 学习资源  
-ibm-opentech-ma -> serviceMesh,  
-trans -> serviceMesh,  
+ibm-opentech-ma -> serviceMesh,  ibm istio
+trans -> ServiceMesher 社区周报,  
 awesome-servicemesh,   
 meetup-slides -> serviceMesh, 
 glossary -> serviceMesh, 
@@ -273,7 +277,8 @@ big-data-study,
 
 segmentfault-lessons   小马哥    
 tech-weekly   小马哥技术周报     
-mercyblitz.github.io   小马哥的技术博客      
+mercyblitz.github.io   小马哥的技术博客  
+awesome-spring-boot  ->   Spring Boot Resources   
 
 -------
 
