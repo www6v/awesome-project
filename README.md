@@ -16,7 +16,7 @@
 
 ### 稳定性
 [StabilityGuide](https://github.com/www6v/StabilityGuide)  ali good  
-[issue-case](../../../issue-case)  
+[issue-case](../../../issue-case)   问题/故障案例总结与整理   
 
 ### java基础  
 [classloader-playground](../../../classloader-playground)  隔离,    
