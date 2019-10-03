@@ -11,6 +11,13 @@
 
 ## fork的项目
 
+### linux
+[awesome-shell](../../../awesome-shell)    
+
+### 稳定性
+[StabilityGuide](https://github.com/www6v/StabilityGuide)  ali good  
+[issue-case](../../../issue-case)  
+
 ### java基础  
 [classloader-playground](../../../classloader-playground)  隔离,    
 [fucking-java-concurrency](../../../fucking-java-concurrency)  ,  
@@ -123,12 +130,16 @@ TBJMap ,
 vjtools -> vip,  
 greys-anatomy ,  
 jvm-sandbox ,  
-tsar ,  
+tsar -> ali ,  
 main-runner -> all in one,    
 fast-profiler ,  
-useful-scripts ,  
+useful-scripts -> good,  
 TProfiler ,  
 arthas -> ali, 
+
+---
+### webRTC
+awesome-live-stream  good
 
 ---
 
@@ -138,7 +149,15 @@ DevOps ,
 derrick  -> docker小工具 阿里,  
 docker-compose-repo, 
 
-Spring ,  
+[follow-me-install-kubernetes-cluster](../../../follow-me-install-kubernetes-cluster)  
+[sample-controller](../../../sample-controller)   
+[kubebuilder](../../../kubebuilder) crd工具，    
+[tke-handbook](../../../tke-handbook)  腾讯TKE 指南  
+log-pilot -> ali
+
+test-infra -> Test infrastructure for the Kubernetes project.   
+gardener -> SAP k8s 混合云
+
 cooma ,  
 docker-java,   
 openjdos  京东开源的容器调度,
@@ -155,7 +174,7 @@ ChaosBlade -> 阿里要开源的
 cncf/landscape  
 grpc  
 k8s  
-etcd  
+
 
 -----
 
@@ -184,11 +203,12 @@ jobbole/awesome-go-cn -> go资料
 ----
 
 ### redis   
-pika,  
+[pika](../../../pika) -> 360,   
 corvus,  
 sdmq,  
 distributed-redis-tool,  
 redis-cluster ,  
+[redisson](../../../redisson)
 
 -----
 
@@ -220,7 +240,11 @@ Qix ->  Distributed System、Golang ,
 translations -> 经典文章翻译,    
 software-practice-miscellany,    
 book,   
-big-data-study,   
+big-data-study,    
+
+segmentfault-lessons   小马哥    
+tech-weekly   小马哥技术周报     
+mercyblitz.github.io   小马哥的技术博客      
 
 -------
 
@@ -230,11 +254,12 @@ enode -> .NET实现
 -------
 
 ### 算法  
-awesome-java-leetcode,   牛x     
+[awesome-java-leetcode](../../../awesome-java-leetcode),   牛x     
 leetcode,  
-LintCode,  牛x   
+[LintCode](../../../LintCode),  牛x   
 algorithms,      
-imooc_algorithm_lesson,        
+imooc_algorithm_lesson,    
+leetcode-1
   
 
 -------
@@ -254,7 +279,10 @@ Aliyun (Alibaba Cloud) Container Service,
 -----
 
 ### interview   
-awesome-interviews   
+[awesome-interviews](../../../awesome-interviews) 
+[reverse-interview](../../../reverse-interview)
+[JavaGuide](../../../JavaGuide)
+[tech-interview-handbook](https://github.com/www6v/tech-interview-handbook)
 
 -----
 
