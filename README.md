@@ -262,7 +262,7 @@ awesome-servicemesh,
 meetup-slides -> serviceMesh, 
 glossary -> serviceMesh, 
 
-CS-Notes,    
+CS-Notes, good  
 JCSprout,   
 
 book-1 -> golang,   
