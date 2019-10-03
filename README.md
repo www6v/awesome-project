@@ -251,7 +251,7 @@ carbon,
 ------
 
 ### 分布式存储  
-containerfs，  
+containerfs ，-> 京东  
 
 ----
 
