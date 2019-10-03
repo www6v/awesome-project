@@ -171,9 +171,9 @@ tcm-demo -> tencent cloud mesh demo for kubeconf 2019
 
 sofa-mosn -> ali ,   
 istio ,  
-cloud-native-istio-> 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
-istio-handbook-1 -> istio书   rootsongjc
-naftis -> awesome dashboard for Istio 小米
+cloud-native-istio-> 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》   
+istio-handbook-1 -> istio书   rootsongjc   
+naftis -> awesome dashboard for Istio 小米   
 
 ---
 
