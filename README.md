@@ -38,8 +38,9 @@
 
 ---
 
-### 服务 rpc
+### 服务 rpc && 微服务
 
+go-chassis ->  microservice framework  
 [pinpoint](../../../pinpoint) ,   
 [cat](../../../cat) ,    
 
@@ -76,13 +77,6 @@
 [Sentinel](../../../Sentinel) ,      
 [Hystrix](../../../Hystrix) ,  
 
------
-
-### service mesh  
-sofa-mosn , 
-
-conduit ,
-istio ,  
 
 ----
 
@@ -100,13 +94,15 @@ Saturn
 
 ---
 
-### 数据    
+### 数据  DAL
 zebra 点评,    
 cobar 阿里 ,    
 canal 阿里 ,    
 otter 阿里,   
 tb_tddl  阿里,    
-zdal  支付宝 ,   
+zdal  支付宝 ,
+
+kingshard -> mysql proxies , golang  
 
 ---
 搜索  
@@ -143,26 +139,46 @@ awesome-live-stream  good
 
 ---
 
-### 容器  
+### 容器  && k8s
 dockerFiles ,  
 DevOps ,  
 derrick  -> docker小工具 阿里,  
 docker-compose-repo, 
+docker-java -> Java Docker API Client,   
+lazydocker -> docker tool
+log-pilot -> ali
 
 [follow-me-install-kubernetes-cluster](../../../follow-me-install-kubernetes-cluster)  
 [sample-controller](../../../sample-controller)   
 [kubebuilder](../../../kubebuilder) crd工具，    
-[tke-handbook](../../../tke-handbook)  腾讯TKE 指南  
-log-pilot -> ali
-
-test-infra -> Test infrastructure for the Kubernetes project.   
-gardener -> SAP k8s 混合云
-
-cooma ,  
-docker-java,   
+[tke-handbook](../../../tke-handbook)  腾讯TKE 指南    
+test-infra -> Test infrastructure for the Kubernetes project     
+gardener -> SAP k8s 混合云,   
+kruise -> ali ,   
+awesome-operators ->  operators,   
 openjdos  京东开源的容器调度,
 
+
+kubernetes-in-action -> book
+
+-----
+### service mesh && istio  
+
+tcm-demo -> tencent cloud mesh demo for kubeconf 2019
+
+sofa-mosn -> ali ,   
+istio ,  
+cloud-native-istio-> 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》
+istio-handbook-1 -> istio书   rootsongjc
+naftis -> awesome dashboard for Istio 小米
+
 ---
+
+### 边缘计算
+openedge -> 百度
+
+---
+
 ### 混沌工程 chaos-engineering  
 chaos-monkey  -> netflix  
 kube-monkey  
@@ -191,12 +207,14 @@ taokeeper
 -------
 
 ### golang   
-rpcx,     
-beego,     
+rpcx -> rpc,     
+beego -> web ,     
 go-patterns,    
 hystrix-go,    
 go-resiliency,    
-cticker -> hashwheel,   
+cticker -> hashwheel, 
+delve -> a debugger for the Go
+
 wonderfogo -> go资料  
 jobbole/awesome-go-cn -> go资料
 
@@ -260,6 +278,7 @@ leetcode,
 algorithms,      
 imooc_algorithm_lesson,    
 leetcode-1
+LeetCodeAnimation, good
   
 
 -------
@@ -291,4 +310,16 @@ Aliyun (Alibaba Cloud) Container Service,
 [kubespray](https://github.com/kubernetes-sigs/kubespray)      
 [kubernate实验平台](https://console.magicsandbox.com)
 
+---
+### flink
+examples-scala -> 《Stream Processing with Apache Flink》- Scala 例子
 
+---
+### AI
+sqlflow -> Brings SQL and AI together. 阿里   
+ 
+
+---
+
+### other
+hacker-laws-zh -> 对开发人员有用的定律、理论、原则和模式  
