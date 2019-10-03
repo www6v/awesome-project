@@ -43,9 +43,7 @@
 
 ### 服务 rpc && 微服务
 
-go-chassis ->  microservice framework  
-[pinpoint](../../../pinpoint) ,   
-[cat](../../../cat) ,    
+go-chassis ->  microservice framework      
 
 [sofa-tracer](../../../sofa-tracer) ,  
 [sofa-bolt](../../../sofa-bolt) ,  
@@ -314,10 +312,10 @@ Aliyun (Alibaba Cloud) Container Service,
 -----
 
 ### interview   
-[awesome-interviews](../../../awesome-interviews) 
-[reverse-interview](../../../reverse-interview)
-[JavaGuide](../../../JavaGuide)
-[tech-interview-handbook](https://github.com/www6v/tech-interview-handbook)
+[awesome-interviews](../../../awesome-interviews)   
+[reverse-interview](../../../reverse-interview)  
+[JavaGuide](../../../JavaGuide)  
+[tech-interview-handbook](https://github.com/www6v/tech-interview-handbook)  
 
 -----
 
