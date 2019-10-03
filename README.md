@@ -173,12 +173,22 @@ sofa-mosn -> ali ,
 istio ,  
 cloud-native-istio-> 华为云原生丛书之《云原生服务网格Istio：原理、实践、架构与源码解析》   
 istio-handbook-1 -> istio书   rootsongjc   
+istio-handbook -> istio书
 naftis -> awesome dashboard for Istio 小米   
+istio-knowledge-map 
 
 ---
 
+### cncf  
+landscape  
+grpc  
+k8s  
+awesome-cloud-native -> good  rootsongjc
+
+----
 ### 边缘计算
 openedge -> 百度
+kubeedge -> 华为
 
 ---
 
@@ -187,13 +197,6 @@ chaos-monkey  -> netflix
 kube-monkey  
 PowerfulSeal  
 ChaosBlade -> 阿里要开源的  
-
-----
-### cncf  
-cncf/landscape  
-grpc  
-k8s  
-
 
 -----
 
