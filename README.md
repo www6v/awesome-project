@@ -251,11 +251,11 @@ containerfs ，-> 京东
 ----
 
 ### 学习资源  
-ibm-opentech-ma -> serviceMesh,  ibm istio
-trans -> ServiceMesher 社区周报,  
-awesome-servicemesh,   
-meetup-slides -> serviceMesh, 
-glossary -> serviceMesh, 
+ibm-opentech-ma -> serviceMesh,  ibm istio    
+trans -> ServiceMesher 社区周报,    
+awesome-servicemesh,     
+meetup-slides -> serviceMesh,   
+glossary -> serviceMesh,   
 
 CS-Notes, good  
 JCSprout,   
