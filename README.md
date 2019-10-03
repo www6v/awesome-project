@@ -92,7 +92,7 @@ spring-cloud-rest-tcc,
 ---
 
 ### 分布式调度   
-Saturn  
+Saturn 唯品会    
 
 ---
 
@@ -143,8 +143,8 @@ awesome-live-stream  good
 ### 容器  && k8s
 dockerFiles ,  
 DevOps ,  
-derrick  -> docker小工具 阿里,  
-docker-compose-repo, 
+derrick  -> docker小工具 阿里,  good
+docker-compose-repo -> 利用docker-compose快速搭建开发环境的Dockerfile及.yaml文件仓库, 
 docker-java -> Java Docker API Client,   
 lazydocker -> docker tool
 log-pilot -> ali
@@ -162,8 +162,8 @@ lucas -> etcd v3 api browser especially for learning kubernetes
 kubernetes-vagrant-centos-cluster -> k8s setup
 
 
-kubernetes-in-action -> book
-k8s-controller-custom-resource ->  《 深入剖析Kubernetes》24.25章 张磊
+kubernetes-in-action -> code of book  
+k8s-controller-custom-resource ->  《 深入剖析Kubernetes》24.25章 张磊  
 
 -----
 ### service mesh && istio  
@@ -181,9 +181,7 @@ istio-knowledge-map
 ---
 
 ### cncf  
-landscape  
-grpc  
-k8s  
+landscape   
 awesome-cloud-native -> good  rootsongjc
 
 ----
@@ -268,8 +266,8 @@ distributed_system_readings,
 Qix ->  Distributed System、Golang ,   
 
 translations -> 经典文章翻译,    
-software-practice-miscellany,    
-book,   
+software-practice-miscellany -> git,    
+book -> 	电子书,   
 big-data-study,    
 
 segmentfault-lessons   小马哥    
