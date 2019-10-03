@@ -52,7 +52,7 @@ go-chassis ->  microservice framework
 [sofa-boot](../../../sofa-boot) ,  
 [sofa-rpc](../../../sofa-rpc) ,  
 
-[jarslink](../../../jarslink) ,  
+[jarslink](../../../jarslink)  sofa ark plugin used to manage multi-application deployment,     
 [COPA](../../../COPA) ,    
 
 [dubbo-thrift](../../../dubbo-thrift) ,  
@@ -120,7 +120,6 @@ Tomcat-Research ,
 Open-Source-Research ,  
 netty-in-action-cn ,  
 
-
 ---
 
 ### 工具和诊断  
@@ -167,6 +166,7 @@ kubernetes-vagrant-centos-cluster -> k8s setup
 
 
 kubernetes-in-action -> book
+k8s-controller-custom-resource ->  《 深入剖析Kubernetes》24.25章 张磊
 
 -----
 ### service mesh && istio  
