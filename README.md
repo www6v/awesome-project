@@ -28,13 +28,16 @@
 ---
 
 ### 消息    
+
 [disruptor](../../../disruptor) ,  
 [Kafka-zk-restapi](../../../Kafka-zk-restapi) ,  
 [kafka](../../../kafka) ,  
 [sdmq](../../../sdmq)  -> delay message queue ,  
-[rocketmq](../../../rocketmq) -> ali,  
+[rocketmq](../../../rocketmq) -> ali,
+[rocketmq-externals](../../../rocketmq-externals) ,   
 [jmq](../../../jmq) -> 京东,  
 [qmq](../../../qmq) -> 去哪儿,  
+
 
 ---
 
@@ -106,7 +109,7 @@ kingshard -> mysql proxies , golang
 
 ---
 搜索  
-poseidon -> qihu360,   
+poseidon -> 360,   
 
 ---
 
@@ -214,6 +217,7 @@ hystrix-go,
 go-resiliency,    
 cticker -> hashwheel, 
 delve -> a debugger for the Go
+awesome-go -> good   
 
 wonderfogo -> go资料  
 jobbole/awesome-go-cn -> go资料
@@ -229,6 +233,10 @@ redis-cluster ,
 [redisson](../../../redisson)
 
 -----
+### feed && timeline 
+tablestore-timeline -> ali tablestore
+
+---
 
 ### source code  tool     
 carbon,  
