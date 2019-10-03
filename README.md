@@ -288,7 +288,7 @@ leetcode,
 [LintCode](../../../LintCode),  牛x   
 algorithms,      
 imooc_algorithm_lesson,    
-leetcode-1
+leetcode-1    
 LeetCodeAnimation, good
   
 
