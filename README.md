@@ -87,8 +87,7 @@ fescar -> 阿里,
 tcc-transaction ,     
 ByteTCC ,  
 Hmily ,  
-spring-cloud-rest-tcc,  
-fescar -> 阿里  
+spring-cloud-rest-tcc,    
 
 ---
 
