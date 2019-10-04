@@ -160,6 +160,7 @@ awesome-operators ->  operators,
 openjdos  京东开源的容器调度,
 lucas -> etcd v3 api browser especially for learning kubernetes   
 kubernetes-vagrant-centos-cluster -> k8s setup
+volcano -> 华为 k8s batch system
 
 
 kubernetes-in-action -> code of book  
