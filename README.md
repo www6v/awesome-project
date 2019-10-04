@@ -159,12 +159,12 @@ kruise -> ali ,
 awesome-operators ->  operators,   
 openjdos  京东开源的容器调度,
 lucas -> etcd v3 api browser especially for learning kubernetes   
-kubernetes-vagrant-centos-cluster -> k8s setup
-volcano -> 华为 k8s batch system
+kubernetes-vagrant-centos-cluster -> k8s setup    
+volcano -> 华为 k8s batch system    
 
 
-kubernetes-in-action -> code of book  
-k8s-controller-custom-resource ->  《 深入剖析Kubernetes》24.25章 张磊  
+kubernetes-in-action -> code of book    
+k8s-controller-custom-resource ->  《 深入剖析Kubernetes》24.25章 张磊     
 
 -----
 ### service mesh && istio  
