@@ -218,12 +218,12 @@ beego -> web ,
 go-patterns,    
 hystrix-go,    
 go-resiliency,    
-cticker -> hashwheel, 
-delve -> a debugger for the Go
-awesome-go -> good   
+cticker -> hashwheel,     
+delve -> a debugger for the Go，        
+awesome-go -> good，            
 
-wonderfogo -> go资料  
-jobbole/awesome-go-cn -> go资料
+wonderfogo -> go资料    
+jobbole/awesome-go-cn -> go资料    
 
 ----
 
