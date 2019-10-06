@@ -6,7 +6,7 @@
 
 [阿里人](http://www.blogjava.net/BlueDavy/)  
 
-[黄若慧](http://blog.zephyrleaves.net/) 在阿里巴巴负责闲鱼技术团队  高级技术专家   淘宝文通
+[黄若慧](http://blog.zephyrleaves.net/) 高级技术专家 淘宝文通
 
 
 入境繁华  蚂蚁金服中间件团队  
@@ -56,6 +56,8 @@ http://www.cnblogs.com/LBSer/
 [scorpion 阿里云函数计算研发经理](https://yq.aliyun.com/users/fbt6ovijrs2zi) 函数计算
 
 [Freewill 阿里云的人 SDN ceph](https://www.cnblogs.com/bodhitree/default.html)
+
+[阿里  周遥（玄胤）](http://www.seflerzhou.net)
 
 ---
 
