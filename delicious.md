@@ -13,6 +13,7 @@
 11.  mysql(32) 
 12. nosql(46) 
 13. kafka(17)
+14. 宕机(1)
 
 ---
 ## 想迁移的tag
@@ -89,7 +90,7 @@ Xtext(1) fail(1) cross-site(1) nonblocking(1) Write-behind缓存(1) dubbo(1) PV�
 QQ(1) QQ空间(1) 阻塞队列(1) windows(1) doc(1) classloader(1) 短连接(1) face(1) mapreduce二次排序(1) 保存方式(1) LSM-tree(1) 压力测试(1)
 validator(1) Scalable(1) 部署工具(1) pv(1) 文法分析(1) 心理学(1) hbase表设计(1) 实时处理(1) 阻塞(1) datagrid(1) 结构化数据(1) 设计(1) 
  architecture.distributedsystem(1) HiveQL(1) explain(1) mysqlProxy(1) jolt(1) DVCS(1) 不可判定问题(1) cursor(1) 
-money(1)  应用场景(1) 宕机(1) luke(1) 商业(1) BOSS(1) ssh(1) 一致性hash(1) GPU(1) 锁定(1) 原则(1) it， mapreduce(1) 
+money(1)  应用场景(1)  luke(1) 商业(1) BOSS(1) ssh(1) 一致性hash(1) GPU(1) 锁定(1) 原则(1) it， mapreduce(1) 
 CDH4安装(1) activiti(1) nginx高可用(1) evictions(1) RCFile(1) eventually(1) Dynamically(1) Gmail(1) habit(1) geohash(1) 
 ArchitectureInternals(1) Wikipedia(1) lazy(1) module(1) computer(1) Indexed(1) sport(1) 相约你我(1) weibo(1) 试题(1)  secondaryIndexing(1)
 master-slave(1) movie(1) hadoopContribute(1) joy(1) cache一致性(1) 房(1) Atomic(1) available(1) 限制(1) parent(1) 
