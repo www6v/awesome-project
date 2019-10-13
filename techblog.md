@@ -214,13 +214,18 @@ SOFA 微信公众号
 [百度开发者中心](https://developer.baidu.com/)    
 
 ---
-facebook https://code.fb.com/
 
-linkedin https://engineering.linkedin.com/blog
+[facebook](https://code.fb.com/) 
 
-netflix https://medium.com/netflix-techblog
+[linkedin techblog](https://engineering.linkedin.com/blog) 
 
-techiedelight https://www.techiedelight.com/
+[netflix techblog](https://medium.com/netflix-techblog) 
+
+[techiedelight](https://www.techiedelight.com/) 
+
+[All Things Distributed](https://www.allthingsdistributed.com/)  aws cto
+
+[AWS Architecture Blog](https://amazonaws-china.com/cn/blogs/architecture/)
 
 ---
 
