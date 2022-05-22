@@ -114,30 +114,6 @@ http://www.cnblogs.com/LBSer/
 
 [董西成  大数据&算法](http://dongxicheng.org/)  
 
-----
-
-k8s & 容器  
-[崔秀龙](https://blog.fleeto.us/) istio 
-
-[钟华 腾讯云](https://imfox.io/)     
-[腾讯云容器团队](https://tencentcloudcontainerteam.github.io/)       
-
-[倪朋飞 微软](https://feisky.xyz/)  
-[倪朋飞@知乎 微软](https://www.zhihu.com/people/feisky/posts)  
-[Kubernetes 指南](https://feisky.xyz/kubernetes-handbook/)  
-
-[宋净超 service mesh](https://jimmysong.io/)  
-[Kubernetes Handbook——Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)    
-
-[傲小剑  service mesh](https://skyao.io/#posts)        
-
-[cizixs@蚂蚁金服](https://cizixs.com/) 
-
-[赵化冰@ZTE](https://zhaohuabing.com/) 
-
-[刘超的通俗云计算  网易云首席架构](https://www.cnblogs.com/popsuper1982/)
-
-[陈鹏](https://imroc.io/) 腾讯云工程师 k8s
  
 ----
 
